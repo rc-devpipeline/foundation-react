@@ -403,7 +403,12 @@ module.exports = function (
     );
   }
   console.log();
-  console.log('Happy hacking!');
+  console.log(chalk.red('NOTICE:'));
+  console.log();
+  console.log('Be sure to create a .env file in the root directory that includes any important environment variables.');
+  console.log('In React, you must prefix your config vars with `REACT_APP_`. EX: `REACT_APP_EMPLOYEE_ID`');
+  console.log();
+  console.log('Get out there an Own Your Journey!!');
 };
 
 function isReactInstalled(appPackage) {

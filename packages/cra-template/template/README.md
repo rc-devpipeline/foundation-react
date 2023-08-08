@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Foundation-React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Foundation React](https://github.com/rc-devpipeline/foundation-react).
 
 ## Available Scripts
 
